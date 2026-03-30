@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**pinjarlakeshavkumaryadav5-lab/pinjarlakeshavkumaryadav5-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Keshav Kumar Yadav 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (AI/ML) Student  
+🚀 GSoC Aspirant  
+💻 Open Source Contributor  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+- Python
+- PyTorch
+- Machine Learning
+- Data Structures
+- Git & GitHub
+
+---
+
+## 🔥 Open Source Contributions
+- Contributing to PyTorch Ignite
+- Worked on improving test coverage
+- Fixed issues in metrics and edge cases
+- Explored distributed system issues
+
+---
+
+## 📌 Projects
+- AI Interview Generator (in progress)
+- Machine Learning based projects
+
+---
+
+## 🎯 Goals
+- GSoC 2027 Selection
+- Become top AI/ML engineer
+- Build impactful open source projects
+
+---
+
+## 📫 Connect with me
+- GitHub: https://github.com/pinjarlakeshavkumaryadav5-lab
